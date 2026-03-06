@@ -1,0 +1,11 @@
+{
+  "name": "@ethan.xia/birthday-reminder",
+  "version": "1.0.2",
+  "description": "Birthday reminder skill - manage birthdays with natural language, store and query birthdays, get upcoming reminders and age calculations",
+  "author": "ethan.xia",
+  "files": [
+    "scripts",
+    "SKILL.md",
+    "_meta.json"
+  ]
+}
